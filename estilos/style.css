@@ -38,3 +38,8 @@ iframe#tela{
     width: 268px;
 
 }
+h1{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
